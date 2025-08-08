@@ -1,0 +1,19 @@
+----------------------------------------
+
+    Booking Confirmed!
+
+    Name: Moinuddin Anwar Patel
+    Phone: 8779578612
+    Car Selected: Toyota Innova
+    Pickup Date: 21 july 2025
+    Return Date: 25 july 2025
+    
+----------------------------------------
+  Booking Confirmed!
+
+    Name: David Bechkam
+    Phone: 9173477786
+    Car Selected: Honda City
+    Pickup Date: 30 july
+    Return Date: 2 august
+    
